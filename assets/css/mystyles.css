@@ -1,0 +1,24 @@
+.page-footer a {
+  margin: 0 10px;
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.gradient {
+  background: linear-gradient(120deg,#2f3437,#2f3437);
+  color: #fff;
+}
+
+.portfolio-block .heading h2 {
+  font-weight: 700;
+  font-size: 1.4rem;
+  text-transform: capitalize;
+}
+
+@media (min-width:768px) {
+  .portfolio-block {
+    padding-bottom: 35px;
+    padding-top: 100px;
+  }
+}
+

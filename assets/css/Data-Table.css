@@ -1,0 +1,10 @@
+#example {
+  margin-bottom: 0;
+}
+
+.page-footer.footer-container {
+  background-color: #003a65;
+  color: white;
+  min-height: 200px;
+}
+
